@@ -1,4 +1,4 @@
-public class Task6 {
+public  class Task6 {
 
 
 }
